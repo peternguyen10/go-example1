@@ -19,5 +19,5 @@ var alex = User{}
 // Hello writes a welcome string
 func Hello() string {
 
-	return "Hello C3T!"
+	return "It's Friday - Have a nice weekend!"
 }
