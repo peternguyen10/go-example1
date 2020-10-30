@@ -7,9 +7,10 @@ package main
 
 import (
 	"fmt"
-	"hello"
 	"io"
 	"net/http"
+
+	"sec.demo/hello"
 )
 
 func handle(w http.ResponseWriter, r *http.Request) {
