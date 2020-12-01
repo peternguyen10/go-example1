@@ -3,6 +3,6 @@ package hello
 // Hello writes a welcome string
 func Hello() string {
 
-	return " Happy Gooooing!"
+	return " Happy Gooooing and Go....ing!"
 
 }
