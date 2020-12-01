@@ -5,6 +5,6 @@
 
 #folder pkg/*
 
-/pkg/mod/
-/pkg/sumdb/
+pkg/*
+
 
