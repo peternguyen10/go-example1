@@ -1,7 +1,7 @@
 {
 		
 	
-	//"workspaceFolder": "/home/nguyen/workspace/go/src/",
+	//"workspaceFolder": "/home/nguyen/workspace/go/src/go-example1",
 	//"workspaceMount": "source=/home/nguyen/workspace/go/src/,target=/home/nguyen/workspace/go/src/,type=bind,consistency=cached",
 	
 	"name": "Go Development in Container - local host!",
